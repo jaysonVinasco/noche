@@ -1,0 +1,32 @@
+{
+    "name": "noche",
+    "displayName": "noche",
+    "description": "Tema para programar en la noche",
+    "publisher": "jaysonvinasco",
+    "version": "2.0.0",
+    "engines": {
+        "vscode": "^1.65.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Noche",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Noche-color-theme.json"
+            }
+        ]
+    },
+    "icon": "icons/noche-icon.png",
+    "author": {
+        "name": "Jayson Vinasco",
+        "email": "jaysonvinasco@gmail.com",
+        "url": "https://platzi.com/p/jaysonvinasco/"
+    },
+    "repository": {
+        "url": "https://github.com/jaysonVinasco/noche",
+        "type": "gif"
+    }
+}
