@@ -3,7 +3,7 @@
     "type": "dark",
     "colors": {
         "activityBar.background": "#2a2c33",
-        "activityBarBadge.background": "#13c24d",
+        "activityBarBadge.background": "#c55f0c",
         "sideBar.background": "#2a2c33",
         "sideBarTitle.foreground": "#bbbbbb",
         "statusBar.background": "#2a2c33",
@@ -21,15 +21,16 @@
             "name": "Comment",
             "scope": ["comment", "punctuation.definition.comment"],
             "settings": {
-                "fontStyle": "italic bold",
-                "foreground": "#51ff00"
+                "fontStyle": "italic",
+                "foreground": "#66705c"
             }
         },
         {
             "name": "Variables",
             "scope": ["variable", "string constant.other.placeholder"],
             "settings": {
-                "foreground": "#ffffff"
+                "foreground": "#f8caa4",
+                "fontStyle": "underline"
             }
         },
         {
@@ -50,7 +51,7 @@
             "name": "Keyword, Storage",
             "scope": ["keyword", "storage.type", "storage.modifier"],
             "settings": {
-                "foreground": "#FF5370",
+                "foreground": "#8c7fda",
                 "fontStyle": "italic bold"
             }
         },
@@ -67,7 +68,7 @@
                 "keyword.other.substitution"
             ],
             "settings": {
-                "foreground": "#23f0ff",
+                "foreground": "#8c7fda",
                 "fontStyle": "bold"
             }
         },
@@ -79,7 +80,7 @@
                 "markup.deleted.git_gutter"
             ],
             "settings": {
-                "foreground": "#23f0ff",
+                "foreground": "#8c7fda",
                 "fontStyle": "bold"
             }
         },
@@ -93,22 +94,22 @@
                 "keyword.other.special-method"
             ],
             "settings": {
-                "foreground": "#23f0ff",
-                "fontStyle": "bold underline"
+                "foreground": "#f78223",
+                "fontStyle": "bold"
             }
         },
         {
             "name": "Block Level Variables",
             "scope": ["meta.block variable.other"],
             "settings": {
-                "foreground": "#f07178"
+                "foreground": "#f8caa4"
             }
         },
         {
             "name": "Other Variable, String Link",
             "scope": ["support.other.variable", "string.other.link"],
             "settings": {
-                "foreground": "#f07178"
+                "foreground": "#ffffff"
             }
         },
         {
@@ -139,7 +140,7 @@
                 "meta.group.braces.curly constant.other.object.key.js string.unquoted.label.js"
             ],
             "settings": {
-                "foreground": "#7e7d7d",
+                "foreground": "#a09e9e",
                 "fontStyle": "bold"
             }
         },
@@ -156,7 +157,7 @@
                 "support.type.sys-types"
             ],
             "settings": {
-                "foreground": "#ffee00",
+                "foreground": "#40f3ea",
                 "fontStyle": "bold"
             }
         },
@@ -164,7 +165,7 @@
             "name": "Entity Types",
             "scope": ["support.type"],
             "settings": {
-                "foreground": "#B2CCD6"
+                "foreground": "#40f391"
             }
         },
         {
