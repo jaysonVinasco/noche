@@ -1,9 +1,9 @@
 {
     "name": "noche",
     "displayName": "noche",
-    "description": "Tema para programar en la noche",
+    "description": "💻🌙🥮🌑🌒🌓🌔",
     "publisher": "jaysonvinasco",
-    "version": "3.0.0",
+    "version": "4.0.0",
     "engines": {
         "vscode": "^1.65.0"
     },
