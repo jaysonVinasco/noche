@@ -1,9 +1,9 @@
 {
     "name": "noche",
     "displayName": "noche",
-    "description": "💻🌙🥮🌑🌒🌓🌔",
+    "description": "Theme with low blue lights / Tema con bajas luces azules",
     "publisher": "jaysonvinasco",
-    "version": "4.0.0",
+    "version": "5.0.0",
     "engines": {
         "vscode": "^1.65.0"
     },
