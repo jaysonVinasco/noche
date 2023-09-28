@@ -28,7 +28,7 @@
 
         "editorLineNumber.activeForeground": "#08f5ed", 
         "editor.selectionBackground": "#0b3b3a",
-        "editor.lineHighlightBackground": "#39364e",
+        "editor.lineHighlightBackground": "#261435",
         "editor.linkedEditingBackground": "#171236",
         "editor.hoverHighlightBackground": "#0a0c0a",
         "editor.wordHighlightBackground": "#000000",

@@ -1,8 +1,10 @@
-<img src="https://drive.google.com/uc?export=download&id=1KXDDpCWRm_kCVvibRtaErX0p-QTm3tA4"
-     alt="HTML jaysonvinasco"/>
+<img src="https://drive.google.com/uc?export=download&id=1Va0U6gZIrBYHVtssr87H5eAy6afTFcTM"
+     alt="TypeScript jaysonvinasco" />
 
-<img src="https://drive.google.com/uc?export=download&id=1A9usx2k3v4CgfPZm6yxosSnSCn8tejDj"
-     alt="HTML jaysonvinasco"/>
 
-<img src="https://drive.google.com/uc?export=download&id=1rIiiIP2ky_kA5dRFXmVCvcFH7x7wt7x_"
+<img src="https://drive.google.com/uc?export=download&id=1JA1QUrVBOADCEBeO4fldwAfC0D-QkHsV"
+     alt="TypeScript jaysonvinasco" />
+
+
+<img src="https://drive.google.com/uc?export=download&id=1BscqVTPfhcuks-TSw0iC74jNMQw8awZL"
      alt="TypeScript jaysonvinasco" />
